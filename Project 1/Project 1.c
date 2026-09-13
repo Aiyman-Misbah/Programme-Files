@@ -30,7 +30,7 @@ int main() {
         no_of_guesses++;
         
     }while(guessed_number!=randomNumber);
-    printf("You guessed_number the number in %d guesses!",no_of_guesses);
+    printf("You guessed number the number in %d guesses!",no_of_guesses);
 
     return 0;
 }
